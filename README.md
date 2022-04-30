@@ -10,3 +10,6 @@
   - Products Section
   - Reviews Section
   - Contact Section
+- Smooth Scrolling
+- Mobile Navigation
+- Cool Hover Effects
