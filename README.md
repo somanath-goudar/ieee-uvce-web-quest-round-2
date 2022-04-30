@@ -13,6 +13,7 @@
 - Smooth Scrolling
 - Mobile Navigation
 - Cool Hover Effects
+- Well Commented Code
 
 ## Website Screenshot:
 <img src='https://i.ibb.co/YBDrCnd/screencapture-somanath-goudar-github-io-ieee-uvce-web-quest-round-2-2022-04-30-12-39-45.png'/>
